@@ -13,7 +13,7 @@
   "dependencies": {
     "ant-design-vue": "^1.3.13",
     "express-session": "^1.16.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-session": "^1.0.3"
   },
   "devDependencies": {
